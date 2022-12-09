@@ -783,7 +783,7 @@ img {
   padding: 63px 24px;
 }
 
-.card-thumb:hover .overlay-text-wrapper {
+.card-portfolio:hover .overlay-text-wrapper {
   transform: translateY(0);
 }
 
